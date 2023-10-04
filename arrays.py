@@ -33,7 +33,7 @@ array_mine = Type.array("c")
 
 #variables
 var_a = "x"
-var
+var_b = "t"
 
 array_mine.insert()
 
